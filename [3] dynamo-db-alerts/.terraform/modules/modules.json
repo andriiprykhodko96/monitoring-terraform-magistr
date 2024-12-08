@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ec2-alert","Source":"../modules-tf/ec2-alerts","Dir":""},{"Key":"ec2-alerts","Source":"../modules-tf/cw-ec2-alerts","Dir":"../modules-tf/cw-ec2-alerts"},{"Key":"s3-alerts","Source":"../modules-tf/cw-dynamo-alerts","Dir":"../modules-tf/cw-dynamo-alerts"}]}
